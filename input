@@ -1,6 +1,10 @@
 #ship=human,0xffff00
-#ship=ships.john.RockBlocker,0xff00ff
-ship=ships.landon.landon,0xFFFFFF
+ship=ships.john.RockBlocker,0xff00ff
+ship=ships.y2018.landon.landon,0xFFFFFF
+ship=ships.y2018.marcello.marcello,0xFF0000
+ship=ships.cid.DrunkenMonkeyAI,0x00FF00
+ship=ships.james.JD_Ship_1,0x0000FF
+ship=ships.jennifer.AIShip,0x999999
 fps=60
 period=120
 quit=130
